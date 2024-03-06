@@ -1,0 +1,16 @@
+{
+  "name": "tw-gov-calendar",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "author": "MapleCheng",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "node ."
+  },
+  "dependencies": {
+    "csv": "^6.3.8",
+    "dayjs": "^1.11.10",
+    "iconv-lite": "^0.6.3"
+  }
+}
